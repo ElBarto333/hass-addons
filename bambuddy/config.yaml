@@ -18,7 +18,7 @@ panel_admin: false
 webui: "http://localhost:8000"
 
 ports:
-  8000/tcp: 8000
+  "8000/tcp": 8000
 
 map:
   - config:rw
