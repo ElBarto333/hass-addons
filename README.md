@@ -23,3 +23,20 @@ Bambuddy is a local companion app for Bambu Lab printers, offering print managem
 7. Install it and start the App  
 8. Open the UI via **"http://[YOUR-HASS-IP]:8000"** → Bambuddy will open
 9. Start the Bambuddy configuration
+
+---
+
+## 📝 Notes
+
+- Ingress is intentionally disabled because Bambuddy does not support iframe embedding.
+- Make sure port **8000** is enabled in the add-on configuration panel.
+
+---
+
+## 🧡 Credits
+
+All credit for Bambuddy goes to the original project:  
+**[Bambuddy](https://bambuddy.cool)**
+**[GitHub](https://github.com/maziggy/bambuddy)**
+
+This repository only provides a Home Assistant add-on wrapper.
