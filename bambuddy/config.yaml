@@ -26,4 +26,4 @@ map:
 options: {}
 schema: {}
 
-image: null
+image: "ghcr.io/maziggy/bambuddy:latest"
