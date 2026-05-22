@@ -2,6 +2,7 @@ name: "Bambuddy"
 version: "0.2.4.2"
 slug: "bambuddy"
 description: "Local Bambuddy Add-on"
+url: "https://bambuddy.cool/"
 arch:
   - amd64
   - aarch64
