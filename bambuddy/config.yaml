@@ -4,7 +4,7 @@ slug: "bambuddy"
 description: "Local Bambuddy Add-on"
 arch:
   - amd64
-  - arm64
+  - aarch64
 startup: services
 boot: auto
 init: false
