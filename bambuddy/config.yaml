@@ -15,7 +15,7 @@ panel_icon: "mdi:printer-3d"
 panel_title: "Bambuddy"
 panel_admin: false
 
-webui: "http://[HOST]:8000"
+webui: "http://homeassistant.local:8000"
 
 ports:
   8000/tcp: 8000
