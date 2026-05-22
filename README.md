@@ -2,7 +2,7 @@
 
 This repository provides a simple Home Assistant App that runs the official **Bambuddy** Docker image inside Home Assistant OS.
 
-Bambuddy is a local companion app for Bambu Lab printers, offering print management, spool tracking, AMS monitoring, notifications, and more.
+Bambuddy is a local companion app for Bambu Lab 3D printers, offering print management, spool tracking, AMS monitoring, notifications, and more.
 
 ---
 
