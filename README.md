@@ -37,6 +37,7 @@ Bambuddy is a local companion app for Bambu Lab printers, offering print managem
 
 All credit for Bambuddy goes to the original project:  
 **[Bambuddy](https://bambuddy.cool)**
+
 **[GitHub](https://github.com/maziggy/bambuddy)**
 
 This repository only provides a Home Assistant add-on wrapper.
