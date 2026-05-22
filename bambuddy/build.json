@@ -1,6 +1,6 @@
 {
   "build_from": {
-    "amd64": "ghcr.io/home-assistant/amd64-base:latest",
-    "arm64": "ghcr.io/home-assistant/arm64-base:latest"
+    "amd64": "ghcr.io/maziggy/bambuddy:latest",
+    "arm64": "ghcr.io/maziggy/bambuddy:latest"
   }
 }
