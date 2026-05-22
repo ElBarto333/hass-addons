@@ -8,16 +8,22 @@ arch:
 startup: services
 boot: auto
 init: false
-panel_icon: "mdi:printer-3d"
-panel_title: "Bambuddy"
-panel_admin: false
+
 ingress: true
 ingress_port: 8000
 ingress_stream: false
+
+panel_icon: "mdi:printer-3d"
+panel_title: "Bambuddy"
+panel_admin: false
+
 ports:
   8000/tcp: null
+
 map:
   - config:rw
+
 options: {}
 schema: {}
+
 image: null
