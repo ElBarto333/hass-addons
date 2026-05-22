@@ -9,7 +9,7 @@ startup: services
 boot: auto
 init: false
 
-ingress: true
+ingress: false
 ingress_port: 8000
 ingress_stream: false
 
