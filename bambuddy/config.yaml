@@ -9,16 +9,16 @@ startup: services
 boot: auto
 init: false
 
-ingress: true
-ingress_port: 8000
-ingress_stream: false
+ingress: false
 
 panel_icon: "mdi:printer-3d"
 panel_title: "Bambuddy"
 panel_admin: false
 
+webui: "http://[HOST]:8000"
+
 ports:
-  8000/tcp: null
+  8000/tcp: 8000
 
 map:
   - config:rw
